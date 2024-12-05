@@ -1,0 +1,7 @@
+C:\Users\omarc\Documents\Trabajos4toCuatrimestre\Estructura de datos\ProyectoFINAL\ProyectoFINAL\obj\Debug\ProyectoFINAL.csproj.AssemblyReference.cache
+C:\Users\omarc\Documents\Trabajos4toCuatrimestre\Estructura de datos\ProyectoFINAL\ProyectoFINAL\obj\Debug\ProyectoFINAL.csproj.CoreCompileInputs.cache
+C:\Users\omarc\Documents\Trabajos4toCuatrimestre\Estructura de datos\ProyectoFINAL\ProyectoFINAL\bin\Debug\ProyectoFINAL.exe.config
+C:\Users\omarc\Documents\Trabajos4toCuatrimestre\Estructura de datos\ProyectoFINAL\ProyectoFINAL\bin\Debug\ProyectoFINAL.exe
+C:\Users\omarc\Documents\Trabajos4toCuatrimestre\Estructura de datos\ProyectoFINAL\ProyectoFINAL\bin\Debug\ProyectoFINAL.pdb
+C:\Users\omarc\Documents\Trabajos4toCuatrimestre\Estructura de datos\ProyectoFINAL\ProyectoFINAL\obj\Debug\ProyectoFINAL.exe
+C:\Users\omarc\Documents\Trabajos4toCuatrimestre\Estructura de datos\ProyectoFINAL\ProyectoFINAL\obj\Debug\ProyectoFINAL.pdb
